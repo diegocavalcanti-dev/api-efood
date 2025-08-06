@@ -6,10 +6,10 @@
     "tipo": "italiana",
     "avaliacao": 4.7,
     "descricao": "A paixão dos nossos talentosos chefs pela cozinha italiana é evidente em cada prato, desde massas caseiras e risotos cremosos até suculentos frutos do mar e carnes tenras. Nosso menu é complementado por uma excelente carta de vinhos, cuidadosamente selecionados para harmonizar com a riqueza dos sabores italianos.",
-    "capa": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//capa.jpeg",
+    "capa": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//capa.jpeg",
     "cardapio": [
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//1.webp",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//1.webp",
         "preco": 69.9,
         "id": 1,
         "nome": "Ravioli al Tartufo Nero",
@@ -17,7 +17,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//2.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana/2.jpg",
         "preco": 56.9,
         "id": 2,
         "nome": "Spaghetti alla Carbonara",
@@ -25,7 +25,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//3.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//3.jpg",
         "preco": 74.9,
         "id": 3,
         "nome": "Risotto ai Funghi Porcini",
@@ -33,7 +33,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//4.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//4.jpg",
         "preco": 89.9,
         "id": 4,
         "nome": "Ossobuco alla Milanese",
@@ -41,7 +41,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//5.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//5.jpg",
         "preco": 62.9,
         "id": 5,
         "nome": "Melanzane alla Parmigiana",
@@ -49,7 +49,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//6.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//6.jpg",
         "preco": 84.9,
         "id": 6,
         "nome": "Frutti di Mare Linguine",
@@ -57,7 +57,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/bella_tavola_italiana//7.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/bella_tavola_italiana//7.jpg",
         "preco": 49.9,
         "id": 7,
         "nome": "Insalata Caprese",
@@ -73,10 +73,10 @@
     "tipo": "árabe",
     "avaliacao": 4.8,
     "descricao": "A Casa das Delícias Árabes é um acolhedor e autêntico restaurante árabe, localizado no coração da cidade, que proporciona uma verdadeira experiência culinária do Oriente Médio. O ambiente é decorado com elementos tradicionais e exóticos, criando uma atmosfera convidativa e confortável.",
-    "capa": "https://ebac-fake-api.vercel.app/efood/casa_delicias_arabes//capa.jpeg",
+    "capa": "https://api-efood.vercel.app/img/efood/casa_delicias_arabes//capa.jpeg",
     "cardapio": [
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/casa_delicias_arabes//1.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/casa_delicias_arabes//1.jpg",
         "preco": 49.9,
         "id": 8,
         "nome": "Mezze Platter",
@@ -84,7 +84,7 @@
         "porcao": "2 a 4 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/casa_delicias_arabes//2.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/casa_delicias_arabes//2.jpg",
         "preco": 54.9,
         "id": 9,
         "nome": "Kebab de Cordeiro",
@@ -92,7 +92,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/casa_delicias_arabes//3.webp",
+        "foto": "https://api-efood.vercel.app/img/efood/casa_delicias_arabes//3.webp",
         "preco": 45.9,
         "id": 10,
         "nome": "Shawarma de Frango",
@@ -108,10 +108,10 @@
     "avaliacao": 4.9,
     "id": 3,
     "descricao": "A Sakura Sushi House é um sofisticado e autêntico restaurante japonês que oferece uma experiência culinária imersiva, transportando os visitantes diretamente para a Terra do Sol Nascente. O ambiente elegante é complementado por um belo jardim japonês, criando uma atmosfera tranquila e serena.",
-    "capa": "https://ebac-fake-api.vercel.app/efood/sakura_sushi_house//capa.jpeg",
+    "capa": "https://api-efood.vercel.app/img/efood/sakura_sushi_house//capa.jpeg",
     "cardapio": [
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/sakura_sushi_house//1.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/sakura_sushi_house//1.jpg",
         "preco": 89.9,
         "id": 11,
         "nome": "Sushi e Sashimi Combinado",
@@ -119,7 +119,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/sakura_sushi_house//2.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/sakura_sushi_house//2.jpg",
         "preco": 79.9,
         "id": 12,
         "nome": "Tempura de Legumes e Camarão",
@@ -127,7 +127,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/sakura_sushi_house//3.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/sakura_sushi_house//3.jpg",
         "preco": 69.9,
         "id": 13,
         "nome": "Teishoku de Tonkatsu",
@@ -143,10 +143,10 @@
     "avaliacao": 4.8,
     "id": 4,
     "descricao": "O Cantinho Lusitano é um charmoso e tradicional restaurante português, que celebra a rica herança culinária de Portugal. Neste aconchegante espaço, os visitantes podem desfrutar dos autênticos sabores portugueses, preparados com ingredientes frescos e de alta qualidade, respeitando as receitas clássicas.",
-    "capa": "https://ebac-fake-api.vercel.app/efood/cantinho_lusitano//capa.jpeg",
+    "capa": "https://api-efood.vercel.app/img/efood/cantinho_lusitano//capa.jpeg",
     "cardapio": [
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/cantinho_lusitano//1.jpeg",
+        "foto": "https://api-efood.vercel.app/img/efood/cantinho_lusitano//1.jpeg",
         "preco": 74.9,
         "id": 14,
         "nome": "Bacalhau à Gomes de Sá",
@@ -154,7 +154,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/cantinho_lusitano//2.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/cantinho_lusitano//2.jpg",
         "preco": 64.9,
         "id": 15,
         "nome": "Arroz de Pato",
@@ -162,7 +162,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/cantinho_lusitano//3.png",
+        "foto": "https://api-efood.vercel.app/img/efood/cantinho_lusitano//3.png",
         "preco": 54.9,
         "id": 16,
         "nome": "Alheira de Mirandela",
@@ -178,10 +178,10 @@
     "avaliacao": 4.7,
     "id": 5,
     "descricao": "A Piazza del Forno é uma pizzaria acolhedora e autêntica que se orgulha de suas raízes italianas. Aqui, você encontrará pizzas artesanais preparadas com ingredientes frescos e assadas em forno a lenha, proporcionando sabores inigualáveis e uma crosta crocante e deliciosa.",
-    "capa": "https://ebac-fake-api.vercel.app/efood/piazza//capa.png",
+    "capa": "https://api-efood.vercel.app/img/efood/piazza//capa.png",
     "cardapio": [
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/piazza//1.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/piazza//1.jpg",
         "preco": 49.9,
         "id": 17,
         "nome": "Pizza Margherita",
@@ -189,7 +189,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/piazza//2.webp",
+        "foto": "https://api-efood.vercel.app/img/efood/piazza//2.webp",
         "preco": 59.9,
         "id": 18,
         "nome": "Pizza Quatro Queijos",
@@ -197,7 +197,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/piazza//3.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/piazza//3.jpg",
         "preco": 64.9,
         "id": 19,
         "nome": "Pizza Calabresa",
@@ -213,10 +213,10 @@
     "avaliacao": 4.8,
     "id": 6,
     "descricao": "O Jardim da Terra é um restaurante vegano que se dedica a oferecer pratos deliciosos e criativos, utilizando apenas ingredientes frescos, orgânicos e sazonais. Nosso cardápio é cuidadosamente elaborado para proporcionar uma experiência culinária única, que celebra a diversidade e a riqueza dos alimentos à base de plantas.",
-    "capa": "https://ebac-fake-api.vercel.app/efood/jardim_terra//capa.png",
+    "capa": "https://api-efood.vercel.app/img/efood/jardim_terra//capa.png",
     "cardapio": [
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/jardim_terra//1.webp",
+        "foto": "https://api-efood.vercel.app/img/efood/jardim_terra//1.webp",
         "preco": 38.9,
         "id": 20,
         "nome": "Hambúrguer de Grão-de-Bico",
@@ -224,7 +224,7 @@
         "porcao": "1 pessoa"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/jardim_terra//2.jpeg",
+        "foto": "https://api-efood.vercel.app/img/efood/jardim_terra//2.jpeg",
         "preco": 42.9,
         "id": 21,
         "nome": "Lasanha de Berinjela",
@@ -232,7 +232,7 @@
         "porcao": "1 a 2 pessoas"
       },
       {
-        "foto": "https://ebac-fake-api.vercel.app/efood/jardim_terra//3.jpg",
+        "foto": "https://api-efood.vercel.app/img/efood/jardim_terra//3.jpg",
         "preco": 35.9,
         "id": 22,
         "nome": "Bowl de Cogumelos e Quinoa",
