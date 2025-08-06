@@ -5,8 +5,21 @@
     { "src": "api/efood/restaurantes/[id].js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/api/efood/restaurantes", "dest": "/api/efood/restaurantes.js" },
-    { "src": "/api/efood/restaurantes/(\\d+)", "dest": "/api/efood/restaurantes/[id].js" },
-    { "src": "/api/efood/checkout", "dest": "/api/efood/checkout.js" }
+    {
+      "src": "/api/efood/restaurantes",
+      "dest": "/api/efood/restaurantes.js"
+    },
+    {
+      "src": "/api/efood/restaurantes/(\\d+)",
+      "dest": "/api/efood/restaurantes/[id].js"
+    },
+    {
+      "src": "/api/efood/checkout",
+      "dest": "/api/efood/checkout.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/public/$1"
+    }
   ]
 }
